@@ -4,6 +4,7 @@ Custom music files I've created for Ship of Harkinian
 ### Tracks:
 
 Columns - Clotho  
+Elden Ring - Title Theme  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 Knuckles Chaotix - Evening Star  
