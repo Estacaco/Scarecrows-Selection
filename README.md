@@ -8,6 +8,7 @@ Elden Ring - Title Theme
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 Knuckles Chaotix - Evening Star  
+Mega Man 2 - Airman  
 Out Run - Splash Wave  
 Shinobi III - Idaten  
 
