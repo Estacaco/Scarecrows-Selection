@@ -11,6 +11,7 @@ Knuckles Chaotix - Evening Star
 Mega Man 2 - Airman  
 Out Run - Splash Wave  
 Shinobi III - Idaten  
+Smash TV - Arena 1  
 
 ### Installation:
 Put .otr files in mod folder
