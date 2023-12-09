@@ -9,7 +9,7 @@ Elden Ring - Title Theme
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 Knuckles Chaotix - Evening Star  
-Luigis Mansion - Egadds Lab
+Luigis Mansion - Egadds Lab  
 Mega Man 2 - Airman  
 Ninja Gaiden - Unbreakable Determination  
 Noisestorm - Crab Rave  
