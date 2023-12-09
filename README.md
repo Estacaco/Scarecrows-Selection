@@ -18,4 +18,6 @@ Shinobi III - Idaten
 Smash TV - Arena 1  
 
 ### Installation:
-Put .otr files in mod folder
+Put .otr files in mod folder.
+Open the Audio Editor in SoH.
+Click Randomize Tracks or select the tracks you would like in the different tabs.
