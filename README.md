@@ -17,6 +17,7 @@ Out Run - Splash Wave
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
+Streets of Rage 2 - Go Straight  
 
 ### Installation:
 Put .otr files in mod folder.
