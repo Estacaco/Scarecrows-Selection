@@ -15,6 +15,7 @@ Ninja Gaiden - Unbreakable Determination
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
 Shinobi III - Idaten  
+Shinobi III - Whirlwind  
 Smash TV - Arena 1  
 
 ### Installation:
