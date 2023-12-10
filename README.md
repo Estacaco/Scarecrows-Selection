@@ -20,6 +20,7 @@ Smash TV - Arena 1
 Streets of Rage 2 - Go Straight  
 Super Mario RPG - Boss Battle  
 Super Mario World - Athletic  
+World of Illusion - forest  
 
 ### Installation:
 Put .otr files in mod folder.
