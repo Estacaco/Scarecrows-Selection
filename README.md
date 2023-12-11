@@ -4,6 +4,7 @@ Custom music files I've created for Ship of Harkinian
 ### Tracks:
 
 Columns - Clotho  
+Donkey Kong Country - Aquatic Ambience  
 Donkey Kong Country 2 - Forest Interlude  
 Donkey Kong Country 2 - Mining Melancholy  
 Donkey Kong Country 2 - Snakey Chantey  
