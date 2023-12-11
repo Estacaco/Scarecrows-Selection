@@ -11,6 +11,7 @@ Donkey Kong Country 2 - Stickerbush Symphony
 Elden Ring - Title Theme  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
+Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
 Luigis Mansion - Egadds Lab  
