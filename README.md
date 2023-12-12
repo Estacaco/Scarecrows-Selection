@@ -16,7 +16,7 @@ Kirby Super Star - Gourmet Race
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
 Luigis Mansion - Egadds Lab  
-Mario Kart DS - Waluigi Pinball
+Mario Kart DS - Waluigi Pinball  
 Mega Man 2 - Airman  
 Ninja Gaiden - Unbreakable Determination  
 Noisestorm - Crab Rave  
