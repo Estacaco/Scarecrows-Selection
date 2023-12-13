@@ -3,6 +3,7 @@ Custom music files I've created for Ship of Harkinian
 
 ### Tracks:
 
+Chrono Cross - Another World  
 Columns - Clotho  
 Donkey Kong Country - Aquatic Ambience  
 Donkey Kong Country - Funky's Fugue  
