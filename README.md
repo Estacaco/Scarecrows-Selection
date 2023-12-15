@@ -4,6 +4,7 @@ Custom music files I've created for Ship of Harkinian
 ### Tracks:
 
 Brave Fencer Musashi - The Musashi Legend  
+Brave Fencer Musashi - The White Cloud In The Sky  
 Brave Fencer Musashi - Twinpeak Mountain  
 Brave Fencer Musashi - Victory  
 Chrono Cross - Another World  
