@@ -3,6 +3,9 @@ Custom music files I've created for Ship of Harkinian
 
 ### Tracks:
 
+Brave Fencer Musashi - The Musashi Legend  
+Brave Fencer Musashi - Twinpeak Mountain  
+Brave Fencer Musashi - Victory  
 Chrono Cross - Another World  
 Columns - Clotho  
 Donkey Kong Country - Aquatic Ambience  
