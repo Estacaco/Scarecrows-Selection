@@ -39,6 +39,7 @@ Super Mario World - Athletic
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
 World of Illusion - forest  
+Zelda Wand of Gamelon - Map Theme  
 
 ### Installation:
 Put .otr files in mod folder.
