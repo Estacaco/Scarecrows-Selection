@@ -27,7 +27,7 @@ Luigis Mansion - Egadds Lab
 Mario Kart DS - Waluigi Pinball  
 Mega Man 2 - Air man  
 Mega Man 2 - Bubble Man  
-Mega Man 2 - Crash Man
+Mega Man 2 - Crash Man  
 Ninja Gaiden - Unbreakable Determination  
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
