@@ -23,6 +23,7 @@ Golden Axe - Wilderness
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
+Legend of Zelda the Wind Waker - The Legendary Hero  
 Luigis Mansion - Egadds Lab  
 Mario Kart DS - Waluigi Pinball  
 Mega Man 2 - Air man  
