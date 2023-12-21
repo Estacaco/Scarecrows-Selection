@@ -20,6 +20,7 @@ Donkey Kong Country 2 - Stickerbush Symphony
 Elden Ring - Title Theme  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
+JJ & Jeff - 1-2  
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
