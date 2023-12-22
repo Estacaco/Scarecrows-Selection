@@ -13,10 +13,12 @@ Demon's Crest - Battle Of The Zombie Dragon
 Donkey Kong Country - Aquatic Ambience  
 Donkey Kong Country - Funky's Fugue  
 Donkey Kong Country - Gang Plank Galleon  
+Donkey Kong Country 2 - Boss Bossanova  
 Donkey Kong Country 2 - Forest Interlude  
 Donkey Kong Country 2 - Mining Melancholy  
 Donkey Kong Country 2 - Snakey Chantey  
 Donkey Kong Country 2 - Stickerbush Symphony  
+Donkey Kong Country 3 - Swanky's Sideshow  
 Elden Ring - Title Theme  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
