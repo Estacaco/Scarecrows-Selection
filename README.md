@@ -20,6 +20,7 @@ Donkey Kong Country 2 - Snakey Chantey
 Donkey Kong Country 2 - Stickerbush Symphony  
 Donkey Kong Country 3 - Swanky's Sideshow  
 Elden Ring - Title Theme  
+Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
