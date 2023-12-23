@@ -34,6 +34,7 @@ Mario Kart DS - Waluigi Pinball
 Mega Man 2 - Air man  
 Mega Man 2 - Bubble Man  
 Mega Man 2 - Crash Man  
+Nightmare Before Christmas - What's This  
 Ninja Gaiden - Unbreakable Determination  
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
