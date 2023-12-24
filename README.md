@@ -9,6 +9,7 @@ Brave Fencer Musashi - Twinpeak Mountain
 Brave Fencer Musashi - Victory  
 Chrono Cross - Another World  
 Columns - Clotho  
+Comix Zone - episode 1 2-2  
 Demon's Crest - Battle Of The Zombie Dragon  
 Donkey Kong Country - Aquatic Ambience  
 Donkey Kong Country - Funky's Fugue  
