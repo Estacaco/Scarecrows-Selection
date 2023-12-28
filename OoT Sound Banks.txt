@@ -2,6 +2,7 @@ OoT's song channels start at 0 and so do most midi editors but not all. Some sta
 
 Channel 9 is the percussion channel and instrument should be set to 7F.  
 Not all banks use the same percussion samples some have a ful kit, some just a tamborine or marimba.  
+It's best to ignore what channel 9 sounds like in your midi editor when using the OoT Soundfont packs and just see how it sounds in the game as they don't seem to be accurate.
 
 Your SEQ file needs to be paried with a META file. you can make a new text document and change the extension from txt to META.  
 In there you will put the display title of your song, what bank number it uses, what type of song it is(BGM or Fanfare) and where the song can be used.  
