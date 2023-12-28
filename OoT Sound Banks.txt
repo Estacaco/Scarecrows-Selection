@@ -1,3 +1,5 @@
+OoT's song channels start at 0 and so do most midi editors but not all. Some start at channel 1, keep this in mind if comparing channel instrument/values between seq64 and your midi editor.
+
 Channel 9 is the percussion channel and instrument should be set to 7F.  
 Not all banks use the same percussion samples some have a ful kit, some just a tamborine or marimba.  
 
