@@ -15,6 +15,8 @@ seq64 automaticall lowers the master volume to "58" which is 88 in decimal value
 
 seq64 will sometimes miss the instrument in a channel and you will need to add it in seq64 manually, same goes for channel volume if you want/need to adjust an andividual channel.
 
+To mute a channel in seq64 you don't want simply set that channels volume to 00 (If it doesn't have a channel volume add it and set it to 00)
+
 Main Orchestra (Hyrule Field) - Bank 03  
 00 - Flute  
 01 - Oboe  
