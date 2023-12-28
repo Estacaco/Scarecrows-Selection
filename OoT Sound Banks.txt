@@ -20,6 +20,8 @@ seq64 will sometimes miss the instrument in a channel and you will need to add i
 
 To mute a channel in seq64 you don't want simply set that channels volume to 00 (If it doesn't have a channel volume add it and set it to 00)
 
+Some songs will change instruments in a channel mid track, so make sure to check and make sure all the insturments in a track have been changed.
+
 Main Orchestra (Hyrule Field) - Bank 03  (Some Soundfont packs show the drum sample 128 as Marimba this is not true and is a full drumset)
 00 - Flute  
 01 - Oboe  
