@@ -1,0 +1,322 @@
+Channel 9 is the percussion channel and instrument should be set to 7F.  
+Not all banks use the same percussion samples some have a ful kit, some just a tamborine or marimba.  
+
+Your SEQ file needs to be paried with a META file. you can make a new text document and change the extension from txt to META.  
+In there you will put the display title of your song, what bank number it uses, what type of song it is(BGM or Fanfare) and where the song can be used.  
+
+META Example:  
+Donkey Kong Country - Gang Plank Galleon  
+08  
+bgm  
+KakarikoChild,KakarikoAdult,LonLonRanch,KokiriForest  
+
+seq64 automaticall lowers the master volume to "58" which is 88 in decimal value, I suggest dropping it to between "38" and "48" which is 56-72 decimal
+"58"/88 is too loud for most tracks.  
+
+seq64 will sometimes miss the instrument in a channel and you will need to add it in seq64 manually, same goes for channel volume if you want/need to adjust an andividual channel.
+
+Main Orchestra (Hyrule Field) - Bank 03  
+00 - Flute  
+01 - Oboe  
+02 - Bassoon  
+04 - Horn  
+05 - Trumpet  
+06 - Trombone  
+07 - Tuba  
+08 - Glockenspiel  
+09 - Orchesta Kit (can be used for non channel 9 drum tracks)  
+0A - Strings 1  
+0B - Strings 2  
+0C - Pizzicato  
+0D - Piano  
+0E - Harp  
+
+Deku Tree - Bank 04  
+00 - Pad1  
+01 - Pad2  
+
+Hylian Troupe - Bank 05  
+00 - Koto  
+01 - Ocarina  
+02 - Bassoon  
+03 - Oboe  
+0B - Pizzicato  
+
+Opening - Bank 06  
+00 - Ocarina  
+0A - Strings 1  
+0B - Strings 2  
+0D - Piano 1  
+0E - Piano 2  
+
+Jabu - Jabu's Belly - Bank 07  
+00 - Wind  
+02 - Synth String  
+03 - Creaking 1  
+04 - Creaking 2  
+
+Kakariko - Bank 08  
+00 - Harmonica  
+01 - Guitar 1  
+02 - Guitar 2  
+03 - Ocarina  
+04 - Glockenspiel  
+05 - Accordion  
+06 - Accordion  
+
+Fairy Fountain - Bank 09  
+00 - Harp 1  
+01 - Harp 2  
+02 - Harp 3  
+03 - Harp 4  
+04 - Strings  
+05 - Ocarina  
+06 - Choir  
+07 - Choir  
+08 - Glockenspiel  
+0a - Strings 1  
+0B - Strings 2  
+0C - Pizzicato Strings  
+
+Fire Temple - Bank 0A (1.0)  
+00 - Chant 1 & 2  
+01 - Chant 3  
+02 - Chant3  
+03 - Kilimba  
+05 - Wind  
+06 - Bell  
+
+
+Fire Temple - Bank 0A (New)  
+03 - Kilimba  
+05 - Wind  
+06 - Bell  
+0A - Choir Male 1  
+0B - Choir Male 2  
+0C - Choir Female 1  
+0D - Choir Female 2  
+
+Dodongo Cavern - Bank 0B  
+00 - Wind/Roar  
+01 - Wood Chime,Shine  
+02 - Noise  
+03 - Dodongo  
+
+Forest Temple - Bank 0C  
+00 - Voice Pad  
+01 - Multipitch Flute  
+02 - Wood Chimes  
+
+Lon Lon Ranch - Bank 0D  
+00 - Malon  
+01 - Malon  
+02 - Jazz Guitar  
+03 - Jazz Guitar High  
+04 - Jazz Guitar High  
+0B - Strings 1  
+0C - Strings 2  
+0D - Fiddle  
+0E - Bell  
+
+Goron City - Bank 0E
+00 - Bent Drum
+01 - Conga hit/Slap
+02 - Cuica Push/Pull
+03 - Kilimba
+04 - Kilimba
+
+Kokiri Forest - Bank 0F
+00 - Pan Flute
+01 - Oboe
+02 - Clarinet
+03 - Bassoon
+04 - Horn
+08 - Glockenspiel
+0A - Strings 1
+0B - Strings 2
+0C - Pizzicato Strings
+0D - Harpsichord
+0E - Harp
+0F - Marimba
+
+Spirit Temple - Bank 10
+00 - Voice pad
+01 - Synth String
+02 - Ethnic Flute
+03 - Conga Hit/Slap
+04 - Synth String
+05 - Ethnic Flute
+
+Horse Race Bank 11
+00 - Banjo
+01 - Banjo2
+05Acoustic Bass
+06 - Harmonica
+07 - Acoustic Guitar
+0D - Fiddle
+0E - Fiddle2
+
+Warp Songs - Bank 12
+00 - Harp 1
+01 - Harp 2
+03 - Strings
+05 - Ocarina
+08 - Glockenspiel
+0A - Strings 1
+0B - Strings 2
+0C - Pizzicato Strings
+
+Legend of Hyrule - Bank 13
+00 - Choir 1
+01 - Choir 2
+02 - Harp
+03 - Glockenspiel
+
+Minigame Shop - Bank 14
+00 - Flute
+01 - Clarinet
+02 - Clarinet2
+03 - Accordion
+04 - Glockenspiel
+
+Zora's Domain - Bank 15
+00 - Steel Drum
+01 - Voice Pad
+02 - Guitar
+
+Shop Theme - Bank 16
+00 - Guitar
+01 - Accordion
+02 - Acoustic Bass
+03 - Trombone
+04 - Trumpet
+0A - Drum
+
+Ice Cavern - Bank 17
+00 - Bell Pad 1
+01 - Bell Pad 2
+02 - Wind
+03 - Bell Pad 3
+
+Shadow Temple - Bank 18
+00 - Drum
+01 - Wind
+02 - SFX 1
+03 - Male Choir
+04 - Female Choir
+06 - Muslim Chant
+07 - SFX2
+08 - Harpsichord
+
+Water Temple - Bank 19
+00 - Flute
+01 - Wind Chimes
+04 - Bell Pad
+05 - Wood Chime
+06 - Voice Pad
+07 -  Koto
+
+Piano - Bank 1A
+0D - Piano
+0E - Piano 2
+
+Gerudo Valley - Bank 1B
+00 - Trombone 1
+01 - Trombone 2
+02 - Guitar
+03 - Guitar 2
+05 - Acoustic Bass
+07 - Guitar 3
+0A - Clap
+0B - Clap2
+
+Potion Shop - Bank 1C
+00 - Koto
+01 - Drum
+02 - Drum 2
+03 - Gond+Windchimes
+
+Konam & Kotaku's Theme - Bank 1D
+00 - Koto
+01 - Drum
+05 - Flute
+07 - Flute 2
+0A - Strings
+0B - Strings 2
+
+Organ - Bank 1E
+00 - Organ Upper
+01 - Organ Lower
+02 - Organ Pedals
+04 - Horn
+
+Inside Ganon's Castle - Bank 1F
+01 - Wind
+02 - SFX 1
+03 - Choir
+04 - Piano
+05 - Piano 2
+07 - SFX 2
+
+Battle - Bank 20
+00 - Flute
+01 - Choir
+02 - Choir 2
+03 - Horn
+04 - Trumpet
+05 - Trombone
+06 - Tuba
+0A - Strings 1
+0B - Strings 2
+0D - Piano
+0F - Marimba
+
+Ending Orchestra - Bank 21
+00 - Malon 1
+01 - Malon 2
+02 - Clarinet
+04 - Horn
+05 - Oboe
+06 - Harp
+07 - Violin
+08 - Glockenspiel
+0A - Strings 1
+0B - Strings 2
+0C - Bell
+0D - Harp
+0E - Female Choir
+
+
+Ending Orchestra 2 - Bank 22
+00 - Koto
+01 - Ocarina
+02 - Bassoon
+03 - Oboe
+04 - Choir 2
+05 - Tambourine
+06 - Harp
+07 - Glockenspiel
+08 - Malon
+0A - Strings 1
+0B - Strings 2
+0C - Pizzicato Strings
+0D - Horn
+0E - Choir 2
+0F - Cuica
+
+Fanfare Orchestra - Bank 23
+05 - Trumpet
+06 - Trombone
+07 - Tuba
+08 - Glockenspiel
+0A - Strings 1
+0B - Strings 2
+0E - Harp
+
+Did You Get All That(Owl) - Bank 24
+01 - Oboe
+03 - Bassoon
+0A - Strings 1
+0B - Strings 2
+0C - Pizzicato Strings
+0E - Harp
