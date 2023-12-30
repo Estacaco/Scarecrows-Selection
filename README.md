@@ -44,6 +44,7 @@ Shinobi III - Idaten
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
 Sonic Mania - Friends  
+Sonic the Hedgehog 2 - Casino Nights  
 Star Fox - Corneria  
 Streets of Rage - Stage 1  
 Streets of Rage 2 - Go Straight  
