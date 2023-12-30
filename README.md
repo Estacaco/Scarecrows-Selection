@@ -1,5 +1,6 @@
-# SoH-CustomMusic
-Custom music files I've created for Ship of Harkinian
+# Scarecrow's Selection
+Scarecrow's Selection is a set of music I've converted for use with Ship of Harkinian  
+Make a folder called music in your mods folder and drop them in, or alternatively just put them in your mods folder.  
 
 ### Tracks:
 
