@@ -23,6 +23,9 @@ Donkey Kong Country 2 - Stickerbush Symphony
 Donkey Kong Country 3 - Swanky's Sideshow  
 Duck Tales - Main Theme  
 Elden Ring - Title Theme  
+Final Fantasy I - Chaos Temple  
+Final Fantasy I - Chaos Temple (slow)  
+Final Fantasy I (GBA) - Mini Boss  
 Final Fantasy I (GBA) - Overworld  
 Final Fantasy II (GBA) - Battle Theme  
 Final Fantasy vii - Forested Temple  
@@ -34,6 +37,7 @@ JJ & Jeff - 1-2
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
+Legend of Zelda Majoras Mask - Mini Boss  
 Legend of Zelda the Wind Waker - The Legendary Hero  
 Luigis Mansion - Egadds Lab  
 Mario Kart DS - Waluigi Pinball  
