@@ -23,6 +23,8 @@ Donkey Kong Country 2 - Stickerbush Symphony
 Donkey Kong Country 3 - Swanky's Sideshow  
 Duck Tales - Main Theme  
 Elden Ring - Title Theme  
+Final Fantasy I (GBA) - Overworld  
+Final Fantasy II (GBA) - Battle Theme  
 Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
 Ghouls n Ghosts - Level 1  
