@@ -23,8 +23,8 @@ Donkey Kong Country 2 - Stickerbush Symphony
 Donkey Kong Country 3 - Swanky's Sideshow  
 Duck Tales - Main Theme  
 Elden Ring - Title Theme  
-Final Fantasy I - Chaos Temple  
-Final Fantasy I - Chaos Temple (slow)  
+Final Fantasy I - Chaos Shrine  
+Final Fantasy I - Chaos Shrine (slow)  
 Final Fantasy I (GBA) - Mini Boss  
 Final Fantasy I (GBA) - Overworld  
 Final Fantasy II (GBA) - Battle Theme  
