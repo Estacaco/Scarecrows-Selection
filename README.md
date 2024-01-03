@@ -21,6 +21,7 @@ Donkey Kong Country 2 - Mining Melancholy
 Donkey Kong Country 2 - Snakey Chantey  
 Donkey Kong Country 2 - Stickerbush Symphony  
 Donkey Kong Country 3 - Swanky's Sideshow  
+Duck Tales - Main Theme  
 Elden Ring - Title Theme  
 Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
@@ -33,6 +34,7 @@ Knuckles Chaotix - Evening Star
 Legend of Zelda the Wind Waker - The Legendary Hero  
 Luigis Mansion - Egadds Lab  
 Mario Kart DS - Waluigi Pinball  
+Maui Mallard in Cold Shadow - The Test of Duckhood  
 Mega Man 2 - Air man  
 Mega Man 2 - Bubble Man  
 Mega Man 2 - Crash Man  
