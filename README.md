@@ -25,6 +25,7 @@ Duck Tales - Main Theme
 Elden Ring - Title Theme  
 Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
+Ghouls n Ghosts - Level 1  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 JJ & Jeff - 1-2  
