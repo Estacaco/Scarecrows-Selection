@@ -8,6 +8,7 @@ Brave Fencer Musashi - The Musashi Legend
 Brave Fencer Musashi - The White Cloud In The Sky  
 Brave Fencer Musashi - Twinpeak Mountain  
 Brave Fencer Musashi - Victory  
+Chip n Dale Rescue Rangers - Title Theme  
 Chrono Cross - Another World  
 Columns - Clotho  
 Comix Zone - episode 1 2-2  
