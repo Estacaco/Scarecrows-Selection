@@ -25,6 +25,7 @@ Duck Tales - Main Theme
 Elden Ring - Title Theme  
 Final Fantasy I - Chaos Shrine  
 Final Fantasy I - Chaos Shrine (slow)  
+Final Fantasy I (GBA) - Boss Battle A  
 Final Fantasy I (GBA) - Chaos Shrine  
 Final Fantasy I (GBA) - Mini Boss  
 Final Fantasy I (GBA) - Overworld  
