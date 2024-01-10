@@ -4,6 +4,7 @@ Make a folder called music in your mods folder and drop them in, or alternativel
 
 ### Tracks:
 
+Bad Dudes - Stage 2  
 Brave Fencer Musashi - The Musashi Legend  
 Brave Fencer Musashi - The White Cloud In The Sky  
 Brave Fencer Musashi - Twinpeak Mountain  
