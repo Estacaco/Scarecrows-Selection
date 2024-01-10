@@ -54,6 +54,7 @@ Nightmare Before Christmas - What's This
 Ninja Gaiden - Unbreakable Determination  
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
+Phil Collins - In The Air Tonight  
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
