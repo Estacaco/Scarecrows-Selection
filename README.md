@@ -41,6 +41,7 @@ JJ & Jeff - 1-2
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
+Legend of Zelda Majoras Mask - Milk Bar  
 Legend of Zelda Majoras Mask - Mini Boss  
 Legend of Zelda the Wind Waker - The Legendary Hero  
 Luigis Mansion - Egadds Lab  
