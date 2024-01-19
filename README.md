@@ -69,6 +69,7 @@ Streets of Rage - Stage 1
 Streets of Rage 2 - Go Straight  
 Super Mario RPG - Boss Battle  
 Super Mario World - Athletic  
+Tarako  
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
 World of Illusion - forest  
