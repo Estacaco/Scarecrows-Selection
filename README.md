@@ -62,7 +62,9 @@ Shinobi III - Idaten
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
 Sonic Mania - Friends  
+Sonic the Hedgehog 2 - Boss Theme 
 Sonic the Hedgehog 2 - Casino Nights  
+Sonic the Hedgehog 3 & Knuckles - Act 2 Boss  
 Star Fox - Corneria  
 Star Wars Episode 1 Racer - Duel of The Fates  
 Streets of Rage - Stage 1  
