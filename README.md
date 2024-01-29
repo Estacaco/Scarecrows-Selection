@@ -52,6 +52,7 @@ Mega Man 2 - Bubble Man
 Mega Man 2 - Crash Man  
 Mega Man 2 - Willy 1  
 Mega Man Legends - Main Gate  
+Metroid Prime - Title Screen  
 Michael Jackson's Moonwalker - Beat It  
 Nightmare Before Christmas - What's This  
 Ninja Gaiden - Unbreakable Determination  
