@@ -45,6 +45,7 @@ Legend of Zelda Majoras Mask - Milk Bar
 Legend of Zelda Majoras Mask - Mini Boss  
 Legend of Zelda the Wind Waker - The Legendary Hero  
 Luigis Mansion - Egadds Lab  
+Mario & Luigi Partners In Time - Battle  
 Mario Kart DS - Waluigi Pinball  
 Maui Mallard in Cold Shadow - The Test of Duckhood  
 Mega Man 2 - Air man  
