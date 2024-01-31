@@ -35,6 +35,7 @@ Final Fantasy I (GBA) - Overworld
 Final Fantasy II (GBA) - Battle Theme  
 Final Fantasy IX - Battle  
 Final Fantasy IX - Crossing The Hills  
+Final Fantasy IX - Vamo' alla Flamenco  
 Final Fantasy IX - You're Not Alone  
 Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
