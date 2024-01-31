@@ -33,6 +33,8 @@ Final Fantasy I (GBA) - Chaos Shrine
 Final Fantasy I (GBA) - Mini Boss  
 Final Fantasy I (GBA) - Overworld  
 Final Fantasy II (GBA) - Battle Theme  
+Final Fantasy IX - Battle  
+Final Fantasy IX - You're Not Alone  
 Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
 Ghouls n Ghosts - Level 1  
