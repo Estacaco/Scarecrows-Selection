@@ -68,6 +68,7 @@ Ninja Gaiden - Unbreakable Determination
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
 Phil Collins - In The Air Tonight  
+Pokemon Mystery Dungeon Red Rescue Team - Personality Test  
 Pokemon Mystery Dungeon Red Rescue Team - Pokemon Square  
 Pokemon Mystery Dungeon Red Rescue Team - Rescue Team Base  
 Shinobi III - Idaten  
