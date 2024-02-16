@@ -50,7 +50,9 @@ Legend of Zelda Majoras Mask - Milk Bar
 Legend of Zelda Majoras Mask - Mini Boss  
 Legend of Zelda the Wind Waker - The Legendary Hero  
 Luigis Mansion - Egadds Lab  
+Mario & Luigi Bowser's Inside Story - Grasslands, All the Way  
 Mario & Luigi Bowser's Inside Story - Okey Dokey  
+Mario & Luigi Bowser's Inside Story - Tough Guy Alert  
 Mario & Luigi Partners In Time - Battle  
 Mario Kart DS - Waluigi Pinball  
 Maui Mallard in Cold Shadow - The Test of Duckhood  
@@ -66,6 +68,8 @@ Ninja Gaiden - Unbreakable Determination
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
 Phil Collins - In The Air Tonight  
+Pokemon Mystery Dungeon Red Rescue Team - Pokemon Square  
+Pokemon Mystery Dungeon Red Rescue Team - Rescue Team Base  
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
