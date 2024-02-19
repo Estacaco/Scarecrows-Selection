@@ -43,6 +43,7 @@ Ghouls n Ghosts - Level 1
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 JJ & Jeff - 1-2  
+Kingdom Hearts II - Lazy Afternoon  
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
@@ -61,6 +62,7 @@ Mega Man 2 - Bubble Man
 Mega Man 2 - Crash Man  
 Mega Man 2 - Willy 1  
 Mega Man Legends - Main Gate  
+Metal Slug 2 - Stage 1  
 Metroid Prime - Title Screen  
 Michael Jackson's Moonwalker - Beat It  
 Nightmare Before Christmas - What's This  
@@ -71,6 +73,8 @@ Phil Collins - In The Air Tonight
 Pokemon Mystery Dungeon Red Rescue Team - Personality Test  
 Pokemon Mystery Dungeon Red Rescue Team - Pokemon Square  
 Pokemon Mystery Dungeon Red Rescue Team - Rescue Team Base  
+Resident Evil 2 - Main Hall  
+Resident Evil 2 - Save Room  
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
@@ -85,6 +89,8 @@ Streets of Rage 2 - Go Straight
 Super Mario RPG - Boss Battle  
 Super Mario World - Athletic  
 Tarako  
+Teenage Mutant Ninja Turtles - Underwater  
+Teenage Mutant Ninja Turtles 2 - Fire!  
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
 World of Illusion - forest  
