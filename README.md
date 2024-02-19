@@ -87,6 +87,7 @@ Star Wars Episode 1 Racer - Duel of The Fates
 Streets of Rage - Stage 1  
 Streets of Rage 2 - Go Straight  
 Super Castlevania 4 - Stage 1 (Simon's Theme)  
+Super Castlevania 4 - Stage B Vampire Killer  
 Super Mario RPG - Boss Battle  
 Super Mario World - Athletic  
 Tarako  
