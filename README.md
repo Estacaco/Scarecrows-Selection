@@ -33,6 +33,7 @@ Final Fantasy I (GBA) - Chaos Shrine
 Final Fantasy I (GBA) - Mini Boss  
 Final Fantasy I (GBA) - Overworld  
 Final Fantasy II (GBA) - Battle Theme  
+Final Fantasy II - Techno de Chocobo  
 Final Fantasy IX - Battle  
 Final Fantasy IX - Crossing The Hills  
 Final Fantasy IX - Vamo' alla Flamenco  
@@ -86,6 +87,8 @@ Star Fox - Corneria
 Star Wars Episode 1 Racer - Duel of The Fates  
 Streets of Rage - Stage 1  
 Streets of Rage 2 - Go Straight  
+Sunset Riders - Stage 1  
+Sunset Riders - Stage 2  
 Super Castlevania 4 - Stage 1 (Simon's Theme)  
 Super Castlevania 4 - Stage B Vampire Killer  
 Super Mario RPG - Boss Battle  
