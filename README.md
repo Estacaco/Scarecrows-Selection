@@ -40,6 +40,7 @@ Final Fantasy IX - Vamo' alla Flamenco
 Final Fantasy IX - You're Not Alone  
 Final Fantasy vii - Forested Temple  
 Final Fantasy vii - Oppressed People  
+Final Fantasy X - To Zanarkand  
 Ghouls n Ghosts - Level 1  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
