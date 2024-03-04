@@ -74,6 +74,7 @@ Phil Collins - In The Air Tonight
 Pokemon Mystery Dungeon Red Rescue Team - Personality Test  
 Pokemon Mystery Dungeon Red Rescue Team - Pokemon Square  
 Pokemon Mystery Dungeon Red Rescue Team - Rescue Team Base  
+Pokemon Scarlet and Violet  - Battle! AI Sada and Turo
 Resident Evil 2 - Main Hall  
 Resident Evil 2 - Save Room  
 Shinobi III - Idaten  
