@@ -74,7 +74,7 @@ Phil Collins - In The Air Tonight
 Pokemon Mystery Dungeon Red Rescue Team - Personality Test  
 Pokemon Mystery Dungeon Red Rescue Team - Pokemon Square  
 Pokemon Mystery Dungeon Red Rescue Team - Rescue Team Base  
-Pokemon Scarlet and Violet  - Battle! AI Sada and Turo
+Pokemon Scarlet and Violet  - Battle! AI Sada and Turo  
 Resident Evil 2 - Main Hall  
 Resident Evil 2 - Save Room  
 Shinobi III - Idaten  
@@ -97,6 +97,7 @@ Super Mario World - Athletic
 Tarako  
 Teenage Mutant Ninja Turtles - Underwater  
 Teenage Mutant Ninja Turtles 2 - Fire!  
+Tyrian - A Field For Mag  
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
 World of Illusion - forest  
