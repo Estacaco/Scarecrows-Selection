@@ -4,6 +4,7 @@ Make a folder called music in your mods folder and drop them in, or alternativel
 
 ### Tracks:
 
+Altered Beast - Stage 1  
 Bad Dudes - Stage 2  
 Battletoads - Arctic Cavern  
 Brave Fencer Musashi - The Musashi Legend  
