@@ -47,6 +47,7 @@ Golden Axe - Battlefield
 Golden Axe - Wilderness  
 JJ & Jeff - 1-2  
 Kingdom Hearts II - Lazy Afternoon  
+Kingdom Hearts II - The Afternoon Streets  
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
