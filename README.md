@@ -5,6 +5,7 @@ Make a folder called music in your mods folder and drop them in, or alternativel
 ### Tracks:
 
 Altered Beast - Stage 1  
+Assassin's Creed II - Ezio's Family  
 Bad Dudes - Stage 2  
 Battletoads - Arctic Cavern  
 Brave Fencer Musashi - The Musashi Legend  
@@ -39,14 +40,16 @@ Final Fantasy IX - Battle
 Final Fantasy IX - Crossing The Hills  
 Final Fantasy IX - Vamo' alla Flamenco  
 Final Fantasy IX - You're Not Alone  
-Final Fantasy vii - Forested Temple  
-Final Fantasy vii - Oppressed People  
+Final Fantasy VII - Forested Temple  
+Final Fantasy VII - Oppressed People  
 Final Fantasy X - To Zanarkand  
+Final Fantasy XIV - The Day Will Come  
 Ghouls n Ghosts - Level 1  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 JJ & Jeff - 1-2  
 Kingdom Hearts II - Lazy Afternoon  
+Kingdom Hearts II - The Afternoon Streets  
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
 Knuckles Chaotix - Evening Star  
