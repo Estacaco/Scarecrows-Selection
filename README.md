@@ -18,8 +18,11 @@ Columns - Clotho
 Comix Zone - episode 1 2-2  
 Demon's Crest - Battle Of The Zombie Dragon  
 Donkey Kong Country - Aquatic Ambience  
+Donkey Kong Country - Forest Frenzy  
 Donkey Kong Country - Funky's Fugue  
 Donkey Kong Country - Gang Plank Galleon  
+Donkey Kong Country - Ice Cave Chant  
+Donkey Kong Country - Tree Top Town  
 Donkey Kong Country 2 - Boss Bossanova  
 Donkey Kong Country 2 - Forest Interlude  
 Donkey Kong Country 2 - Mining Melancholy  
