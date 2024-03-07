@@ -4,7 +4,7 @@ Make a folder called music in your mods folder and drop them in, or alternativel
 
 ### Tracks:
 
-Al Things Considered Fanfare  
+All Things Considered Fanfare  
 Altered Beast - Stage 1  
 Assassin's Creed II - Ezio's Family  
 Bad Dudes - Stage 2  
