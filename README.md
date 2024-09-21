@@ -96,7 +96,7 @@ Sonic Mania - Friends
 Sonic the Hedgehog 2 - Boss Theme  
 Sonic the Hedgehog 2 - Casino Nights  
 Sonic the Hedgehog 3 & Knuckles - Act 2 Boss  
-Sponge Bob Square Pants Battle For Bikini Bottom  
+Sponge Bob Square Pants Battle For Bikini Bottom - Jelly Fish Fields  
 Star Fox - Corneria  
 Star Wars Episode 1 Racer - Duel of The Fates  
 Streets of Rage - Stage 1  
