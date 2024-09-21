@@ -14,6 +14,7 @@ Brave Fencer Musashi - The Musashi Legend
 Brave Fencer Musashi - The White Cloud In The Sky  
 Brave Fencer Musashi - Twinpeak Mountain  
 Brave Fencer Musashi - Victory  
+Castle Crashers Remastered - Menu  
 Chip n Dale Rescue Rangers - Title Theme  
 Chrono Cross - Another World  
 Columns - Clotho  
@@ -95,6 +96,7 @@ Sonic Mania - Friends
 Sonic the Hedgehog 2 - Boss Theme  
 Sonic the Hedgehog 2 - Casino Nights  
 Sonic the Hedgehog 3 & Knuckles - Act 2 Boss  
+Sponge Bob Square Pants Battle For Bikini Bottom  
 Star Fox - Corneria  
 Star Wars Episode 1 Racer - Duel of The Fates  
 Streets of Rage - Stage 1  
