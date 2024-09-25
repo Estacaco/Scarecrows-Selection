@@ -63,6 +63,7 @@ Knuckles Chaotix - Evening Star
 Legend of Zelda Majoras Mask - Milk Bar  
 Legend of Zelda Majoras Mask - Mini Boss  
 Legend of Zelda the Wind Waker - The Legendary Hero  
+Little Nemo - The Dream Master - Mushroom Forest  
 Luigis Mansion - Egadds Lab  
 Mario & Luigi Bowser's Inside Story - Grasslands, All the Way  
 Mario & Luigi Bowser's Inside Story - Okey Dokey  
@@ -73,7 +74,9 @@ Maui Mallard in Cold Shadow - The Test of Duckhood
 Mega Man 2 - Air man  
 Mega Man 2 - Bubble Man  
 Mega Man 2 - Crash Man  
+Mega Man 2 - Flash Man  
 Mega Man 2 - Willy 1  
+Mega Man 3 - Top Man  
 Mega Man Legends - Main Gate  
 Metal Slug 2 - Stage 1  
 Metroid Prime - Title Screen  
