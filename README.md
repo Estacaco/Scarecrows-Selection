@@ -115,6 +115,9 @@ Super Castlevania 4 - Stage B Vampire Killer
 Super Mario RPG - Boss Battle  
 Super Mario World - Athletic  
 Tarako  
+Teenage Mutant Ninja Turtles - Boss  
+Teenage Mutant Ninja Turtles - Mini Boss  
+Teenage Mutant Ninja Turtles - Overworld  
 Teenage Mutant Ninja Turtles - Underwater  
 Teenage Mutant Ninja Turtles 2 - Fire!  
 Tomb Raider II - Venice  
