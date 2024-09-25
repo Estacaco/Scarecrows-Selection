@@ -20,6 +20,7 @@ Chrono Cross - Another World
 Columns - Clotho  
 Comix Zone - episode 1 2-2  
 Demon's Crest - Battle Of The Zombie Dragon  
+Diablo - Tristram  
 Donkey Kong Country - Aquatic Ambience  
 Donkey Kong Country - Forest Frenzy  
 Donkey Kong Country - Funky's Fugue  
