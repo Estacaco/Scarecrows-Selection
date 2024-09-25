@@ -70,6 +70,8 @@ Mario & Luigi Bowser's Inside Story - Grasslands, All the Way
 Mario & Luigi Bowser's Inside Story - Okey Dokey  
 Mario & Luigi Bowser's Inside Story - Tough Guy Alert  
 Mario & Luigi Partners In Time - Battle  
+Mario Kart 64 - Mario Raceway  
+Mario Kart 64 - Toads Turnpike
 Mario Kart DS - Waluigi Pinball  
 Maui Mallard in Cold Shadow - The Test of Duckhood  
 Mega Man 2 - Air man  
