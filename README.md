@@ -20,6 +20,7 @@ Chrono Cross - Another World
 Columns - Clotho  
 Comix Zone - episode 1 2-2  
 Deltarune - Field of Hopes and Dreams  
+Deltarune - Lance Fighter  
 Demon's Crest - Battle Of The Zombie Dragon  
 Diablo - Tristram  
 Donkey Kong Country - Aquatic Ambience  
