@@ -52,6 +52,7 @@ Final Fantasy VII - Forested Temple
 Final Fantasy VII - Oppressed People  
 Final Fantasy X - To Zanarkand  
 Final Fantasy XIV - The Day Will Come  
+Final Fantasy Tactics - Decisive Battle  
 George Michael - Careless Whisper  
 Ghouls n Ghosts - Level 1  
 Golden Axe - Battlefield  
