@@ -35,7 +35,10 @@ Donkey Kong Country 2 - Mining Melancholy
 Donkey Kong Country 2 - Snakey Chantey  
 Donkey Kong Country 2 - Stickerbush Symphony  
 Donkey Kong Country 3 - Swanky's Sideshow  
+Duck Tales - Amazon  
+Duck Tales - Himalayas  
 Duck Tales - Main Theme  
+Duck Tales - Transylvania  
 Elden Ring - Title Theme  
 Final Fantasy I - Chaos Shrine  
 Final Fantasy I - Chaos Shrine (slow)  
