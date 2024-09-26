@@ -127,6 +127,7 @@ Tyrian - A Field For Mag
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
 World of Illusion - forest  
+Yoshi's Island - Flower Garden  
 Zelda Wand of Gamelon - Map Theme  
 
 ### Installation:
