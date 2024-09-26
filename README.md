@@ -87,6 +87,7 @@ Mega Man Legends - Main Gate
 Metal Slug 2 - Stage 1  
 Metroid Prime - Title Screen  
 Michael Jackson's Moonwalker - Beat It  
+Neon Genesis Evangelion - A Cruel Angel's Thesis  
 Nightmare Before Christmas - What's This  
 Ninja Gaiden - Unbreakable Determination  
 Noisestorm - Crab Rave  
@@ -131,6 +132,9 @@ World of Illusion - forest
 Yoshi's Island - Flower Garden  
 Yoshi's Island - Overworld  
 Zelda Wand of Gamelon - Map Theme  
+
+You can preview some of the tracks here:  
+https://www.youtube.com/playlist?list=PLlons6sn-3dt15FDE0NobZQgS_wiJS7LQ
 
 ### Installation:
 Put .otr files in mod folder.
