@@ -93,6 +93,7 @@ Mega Man Legends - Main Gate
 Metal Slug 2 - Stage 1  
 Metroid Prime - Title Screen  
 Michael Jackson's Moonwalker - Beat It  
+Naruto - The Raising Fighting Spirit  
 Neon Genesis Evangelion - A Cruel Angel's Thesis  
 Nightmare Before Christmas - What's This  
 Ninja Gaiden - Unbreakable Determination  
