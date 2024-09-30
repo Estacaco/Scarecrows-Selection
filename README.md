@@ -18,6 +18,7 @@ Castle Crashers Remastered - Menu
 Chip n Dale Rescue Rangers - Title Theme  
 Chrono Cross - Another World  
 Columns - Clotho  
+Cowboy Bebop - Tank!  
 Comix Zone - episode 1 2-2  
 Deltarune - Field of Hopes and Dreams  
 Deltarune - Lance Fighter  
