@@ -131,8 +131,9 @@ Teenage Mutant Ninja Turtles - Mini Boss
 Teenage Mutant Ninja Turtles - Overworld  
 Teenage Mutant Ninja Turtles - Underwater  
 Teenage Mutant Ninja Turtles 2 - Fire!  
-Touhou 4 - Bad Apple!! Ft Nomico  
+Tomba! - Evil Pig Boss  
 Tomb Raider II - Venice  
+Touhou 4 - Bad Apple!! Ft Nomico  
 Tyrian - A Field For Mag  
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
