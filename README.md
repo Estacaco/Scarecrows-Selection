@@ -136,6 +136,7 @@ Tomb Raider II - Venice
 Tyrian - A Field For Mag  
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
+Wild Arms - Into the Wilderness  
 World of Illusion - forest  
 Yoshi's Island - Flower Garden  
 Yoshi's Island - Overworld  
