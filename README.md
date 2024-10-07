@@ -107,6 +107,7 @@ Pokemon Scarlet and Violet  - Battle! AI Sada and Turo
 Professor Layton and the Curious Village - Professor Layton's Theme  
 Resident Evil 2 - Main Hall  
 Resident Evil 2 - Save Room  
+RoboWarrior - Keep Moving  
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
