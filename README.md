@@ -9,6 +9,8 @@ All Things Considered Fanfare 2
 Altered Beast - Stage 1  
 Assassin's Creed II - Ezio's Family  
 Bad Dudes - Stage 2  
+Batman(NES) - Stage 1 Streets of Desolation  
+Batman(NES) - Stage 2 Axis Chemical Factory  
 Battletoads - Arctic Cavern  
 Brave Fencer Musashi - The Musashi Legend  
 Brave Fencer Musashi - The White Cloud In The Sky  
