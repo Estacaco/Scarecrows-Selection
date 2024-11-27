@@ -106,6 +106,8 @@ Pokemon Mystery Dungeon Red Rescue Team - Personality Test
 Pokemon Mystery Dungeon Red Rescue Team - Pokemon Square  
 Pokemon Mystery Dungeon Red Rescue Team - Rescue Team Base  
 Pokemon Scarlet and Violet  - Battle! AI Sada and Turo  
+Pokemon Trading Card Game - Club Master Battle  
+Pokemon Trading Card Game - Normal Battle  
 Professor Layton and the Curious Village - Professor Layton's Theme  
 Resident Evil 2 - Main Hall  
 Resident Evil 2 - Save Room  
