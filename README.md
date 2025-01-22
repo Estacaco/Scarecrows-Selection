@@ -99,6 +99,7 @@ Naruto - The Raising Fighting Spirit
 Neon Genesis Evangelion - A Cruel Angel's Thesis  
 Nightmare Before Christmas - What's This  
 Ninja Gaiden - Unbreakable Determination  
+Ninja Gaiden 2 - Battling Precariously  
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
 Phil Collins - In The Air Tonight  
