@@ -42,6 +42,7 @@ Duck Tales - Amazon
 Duck Tales - Himalayas  
 Duck Tales - Main Theme  
 Duck Tales - Transylvania  
+Ecco: The Tides of Time - Fin To Feather  
 Elden Ring - Title Theme  
 Final Fantasy I - Chaos Shrine  
 Final Fantasy I - Chaos Shrine (slow)  
@@ -89,6 +90,9 @@ Mega Man 2 - Air man
 Mega Man 2 - Bubble Man  
 Mega Man 2 - Crash Man  
 Mega Man 2 - Flash Man  
+Mega Man 2 - Heat Man  
+Mega Man 2 - Intro  
+Mega Man 2 - Metal Man  
 Mega Man 2 - Willy 1  
 Mega Man 3 - Top Man  
 Mega Man Legends - Main Gate  
