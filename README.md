@@ -136,6 +136,7 @@ Super Castlevania 4 - Stage 1 (Simon's Theme)
 Super Castlevania 4 - Stage B Vampire Killer  
 Super Mario RPG - Boss Battle  
 Super Mario World - Athletic  
+Take On Me - A-ha  
 Tarako  
 Teenage Mutant Ninja Turtles - Boss  
 Teenage Mutant Ninja Turtles - Mini Boss  
