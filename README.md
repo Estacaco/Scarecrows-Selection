@@ -141,6 +141,7 @@ Teenage Mutant Ninja Turtles - Mini Boss
 Teenage Mutant Ninja Turtles - Overworld  
 Teenage Mutant Ninja Turtles - Underwater  
 Teenage Mutant Ninja Turtles 2 - Fire!  
+Thunder Force IV - Stage 8(Bio Base)  
 TLC - No Scrubs  
 Tomba! - Evil Pig Boss  
 Tomb Raider II - Venice  
