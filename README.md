@@ -42,6 +42,7 @@ Duck Tales - Amazon
 Duck Tales - Himalayas  
 Duck Tales - Main Theme  
 Duck Tales - Transylvania  
+Dwarf Fortress Theme  
 Earthbound - Sunrise and Onett Theme  
 Ecco: The Tides of Time - Fin To Feather  
 Elden Ring - Title Theme  
