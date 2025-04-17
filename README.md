@@ -139,6 +139,7 @@ Sunset Riders - Stage 2
 Super Castlevania 4 - Stage 1 (Simon's Theme)  
 Super Castlevania 4 - Stage B Vampire Killer  
 Super Mario RPG - Boss Battle  
+Super Mario RPG - Fight Against a Somewhat Stronger Monster  
 Super Mario World - Athletic  
 Take On Me - A-ha  
 Tarako  
