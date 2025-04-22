@@ -71,6 +71,7 @@ Halo Theme
 Jamiroquai - Virtual Insanity  
 JJ & Jeff - 1-2  
 Kingdom Hearts II - Lazy Afternoon  
+Kingdom Hearts II - Riku  
 Kingdom Hearts II - The Afternoon Streets  
 Kirby Super Star - Gourmet Race  
 Kirby Super Star - Green Greens  
@@ -109,6 +110,7 @@ Ninja Gaiden - Unbreakable Determination
 Ninja Gaiden 2 - Battling Precariously  
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
+Phoenix Wright Ace Attorney - Cornered  
 Phil Collins - In The Air Tonight  
 Pictionary - Title  
 Pokemon Mystery Dungeon Red Rescue Team - Personality Test  
