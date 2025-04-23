@@ -33,6 +33,7 @@ Donkey Kong Country - Gang Plank Galleon
 Donkey Kong Country - Ice Cave Chant  
 Donkey Kong Country - Tree Top Town  
 Donkey Kong Country 2 - Boss Bossanova  
+Donkey Kong Country 2 - Flight of the Zinger  
 Donkey Kong Country 2 - Forest Interlude  
 Donkey Kong Country 2 - Mining Melancholy  
 Donkey Kong Country 2 - Snakey Chantey  
