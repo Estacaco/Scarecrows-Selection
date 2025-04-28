@@ -82,6 +82,7 @@ Legend of Zelda Majoras Mask - Mini Boss
 Legend of Zelda the Wind Waker - The Legendary Hero  
 Little Nemo - The Dream Master - Mushroom Forest  
 Luigis Mansion - Egadds Lab  
+Luigis Mansion - The Mansion  
 Marble Madness - Level 1  
 Mario & Luigi Bowser's Inside Story - Grasslands, All the Way  
 Mario & Luigi Bowser's Inside Story - Okey Dokey  
