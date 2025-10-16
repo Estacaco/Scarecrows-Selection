@@ -49,6 +49,7 @@ Ecco: The Tides of Time - Fin To Feather
 Elden Ring - Title Theme  
 Final Fantasy I - Chaos Shrine  
 Final Fantasy I - Chaos Shrine (slow)  
+Final Fantasy I - Matoya's Cave  
 Final Fantasy I (GBA) - Boss Battle A  
 Final Fantasy I (GBA) - Chaos Shrine  
 Final Fantasy I (GBA) - Mini Boss  
@@ -125,6 +126,7 @@ Professor Layton and the Curious Village - Professor Layton's Theme
 Resident Evil 2 - Main Hall  
 Resident Evil 2 - Save Room  
 RoboWarrior - Keep Moving  
+Rob Zombie - Dragula  
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
