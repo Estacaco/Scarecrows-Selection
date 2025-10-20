@@ -70,6 +70,7 @@ Ghouls n Ghosts - Level 1
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
 Halo Theme  
+Huntrix - Golden  
 Jamiroquai - Virtual Insanity  
 JJ & Jeff - 1-2  
 Kingdom Hearts II - Lazy Afternoon  
