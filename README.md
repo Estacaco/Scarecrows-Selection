@@ -115,6 +115,7 @@ Ninja Gaiden 2 - Battling Precariously
 Noisestorm - Crab Rave  
 Out Run - Splash Wave  
 Phoenix Wright Ace Attorney - Cornered  
+Phantasy Star 2 - Secret Ways  
 Phil Collins - In The Air Tonight  
 Pictionary - Title  
 Pokemon Mystery Dungeon Red Rescue Team - Personality Test  
