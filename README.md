@@ -124,6 +124,7 @@ Pokemon Scarlet and Violet  - Battle! AI Sada and Turo
 Pokemon Trading Card Game - Club Master Battle  
 Pokemon Trading Card Game - Normal Battle  
 Professor Layton and the Curious Village - Professor Layton's Theme  
+Rayman 2 - Riding the Shell  
 Resident Evil 2 - Main Hall  
 Resident Evil 2 - Save Room  
 RoboWarrior - Keep Moving  
