@@ -106,9 +106,11 @@ Mega Man 3 - Top Man
 Mega Man Legends - Main Gate  
 Metal Slug 2 - Stage 1  
 Metroid Prime - Title Screen  
+MGMT - Kids  
 Michael Jackson's Moonwalker - Beat It  
 Naruto - The Raising Fighting Spirit  
 Neon Genesis Evangelion - A Cruel Angel's Thesis  
+New Order - Blue Monday  
 Nightmare Before Christmas - What's This  
 Ninja Gaiden - Unbreakable Determination  
 Ninja Gaiden 2 - Battling Precariously  
