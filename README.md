@@ -9,6 +9,7 @@ All Things Considered Fanfare 2
 Altered Beast - Stage 1  
 Assassin's Creed II - Ezio's Family  
 Bad Dudes - Stage 2  
+Baldurs Gate 3 - I Want To Live  
 Batman(NES) - Stage 1 Streets of Desolation  
 Batman(NES) - Stage 2 Axis Chemical Factory  
 Battletoads - Arctic Cavern  
@@ -16,6 +17,8 @@ Brave Fencer Musashi - The Musashi Legend
 Brave Fencer Musashi - The White Cloud In The Sky  
 Brave Fencer Musashi - Twinpeak Mountain  
 Brave Fencer Musashi - Victory  
+Cake - Never There  
+Cake - The Distance  
 Castle Crashers Remastered - Menu  
 Chip n Dale Rescue Rangers - Title Theme  
 Chrono Cross - Another World  
@@ -69,6 +72,7 @@ George Michael - Careless Whisper
 Ghouls n Ghosts - Level 1  
 Golden Axe - Battlefield  
 Golden Axe - Wilderness  
+Golden eye - Caverns  
 Halo Theme  
 Huntrix - Golden  
 Jamiroquai - Virtual Insanity  
@@ -169,6 +173,7 @@ Touhou 14 - Benben & Yatsuhashi's Theme - Illusionary Joururi
 Tyrian - A Field For Mag  
 Undertale - Its Raining Somewhere Else  
 Vector Man - Ocean  
+Wario Lands 3 - Desert Ruins  
 Wild Arms - Into the Wilderness  
 World of Illusion - forest  
 Yoshi's Island - Flower Garden  
