@@ -137,6 +137,7 @@ Resident Evil 2 - Main Hall
 Resident Evil 2 - Save Room  
 RoboWarrior - Keep Moving  
 Rob Zombie - Dragula  
+Seal - Kiss From A Rose  
 Shinobi III - Idaten  
 Shinobi III - Whirlwind  
 Smash TV - Arena 1  
